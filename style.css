@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+hr{
+    height: 10px;
+    background-color: rgb(255, 102, 0)
+}
+h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+}
+p{
+    font-size: 28px;
+}
+.main{
+    color: turquoise;
+    font-size: 36px;
+    border: solid 10px;
+    border-color: rgb(00, 00, 00);
+    padding-left: 20px;
+    background-color: dimgrey;
+
+}
+#freedo{
+    font-family: cursive;
+}
+a{
+    text-align: right;
+}
